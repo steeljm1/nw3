@@ -1,0 +1,10 @@
+23288f25dc4f3921.b none swap sw
+23288f25dc4f3921.a / ffs rw 1 1
+23288f25dc4f3921.k /home ffs rw,nodev,nosuid 1 2
+23288f25dc4f3921.d /tmp ffs rw,nodev,nosuid 1 2
+23288f25dc4f3921.f /usr ffs rw,nodev 1 2
+23288f25dc4f3921.g /usr/X11R6 ffs rw,nodev 1 2
+23288f25dc4f3921.h /usr/local ffs rw,nodev 1 2
+23288f25dc4f3921.j /usr/obj ffs rw,nodev,nosuid 1 2
+23288f25dc4f3921.i /usr/src ffs rw,nodev,nosuid 1 2
+23288f25dc4f3921.e /var ffs rw,nodev,nosuid 1 2
